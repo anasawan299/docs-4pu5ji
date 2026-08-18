@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-hd8kkw.indocuan.space/sitemap.xml
